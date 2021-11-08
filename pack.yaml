@@ -1,0 +1,13 @@
+ref: hello_st2
+name: Hello StackStorm
+description: Demo 
+keywords:
+  - example
+  - test
+version: 0.0.1
+python_versions:
+  - "3"
+dependencies:
+  - core
+author: Jim Dick
+email: james.dick@global.ntt
